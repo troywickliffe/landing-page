@@ -1,4 +1,41 @@
 body {
     margin: 0;
-    
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    gap: 16px;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+}
+
+.section1 {
+    background-color: #1F2937;
+    color: white;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+.content1 {
+    display: flex;
+    justify-content: space-evenly;
 }
