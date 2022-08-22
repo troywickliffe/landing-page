@@ -115,3 +115,25 @@ div.title {
 p.box-text {
     margin: 0 20px 0 20px;
 }
+
+.section2 {
+    display: flex;
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    padding: 100px 200px;
+}
+
+p {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+figcaption {
+   display: flex;
+   justify-content: end;
+   font-weight: bold;
+}
