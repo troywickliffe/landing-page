@@ -173,3 +173,10 @@ div.sub-text {
     margin-top: 10px;
     border: white solid;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    font-size: 13px;
+    padding: 25px;
+}
