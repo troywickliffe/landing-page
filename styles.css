@@ -137,3 +137,39 @@ figcaption {
    justify-content: end;
    font-weight: bold;
 }
+
+.section3 {
+    padding: 50px 40px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    padding: 50px 75px;
+    margin: 80px;
+    border-radius: 7px;
+}
+
+div.call-to-action {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+div.sub-text {
+    color: #E5E7EB;
+    font-size: 14px;
+}
+
+.button2 {
+    background-color: #3882F6;
+    padding: 7px 25px;
+    color: #F9FAF8;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    border: white solid;
+}
